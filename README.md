@@ -9,9 +9,11 @@ Was hatten Sie sich am Ende von LP9 vorgenommen?.
 Einmal wieder besser C# Programmieren können. Dieses Ziel verfolge ich auch so weiter. 
 
 Was wäre ein geeignetes Projekt für diese LP11?
-Ich werde an dem Buch "C# for Dummies" Arbeiten.
+Ich werde an dem Buch "C# for Dummies" Arbeiten./Bewerbungen an unternehmen versenden
 
 # 15.08.
-- [ ] Research nach Online Platformen zum C# lernen / verbessern
-- [ ] Einschreiben in einen C# Kurs
-- [ ] C# Kurs lösen um meine Skills wieder aufzufrüschen
+- [x] Lebenslauf verbessert und Bewerbungsdossie angepasst
+- [x] Neue unternehmen gesucht und in eine Excelliste eingefügt
+- [x] Bewerbungsschreiben für unternehmen geschrieben
+
+Heute habe ich primär an meinem Bewerbungsdossier gearbeitet. Das bedeuted das ich wie oben aufgelistet zuerst noch vorhandene Tippfehler korrigiert habe und dann nach neuen potenziellen Unternehmen gesucht habe in denen ich gerne ein Praktikum machen würde. Ich habe mehrere in der Umgebung gefunden aber auch in der Umgebung von Zürich eine auch in St.Gallen jedoch hat diese nicht so hohe priorität da sie weit weg ist.
