@@ -24,5 +24,4 @@ Heute habe ich primär an meinem Bewerbungsdossier gearbeitet. Das bedeuted das 
 - [x] Selbsteinschätzung für Lerntyp ausgefüllt und dazu eine selbstreflektion gemacht. 
 - [x] Bewerbungsschreiben für unternehmen geschrieben ZHAW und Bewerbung verschickt.
 
-
-
+Heute habe ich erneut sehr viel für meine Praktukumsstelle erledigt und musste mit bedauern feststellen das mir ein Peinlicher Schreibfehler unterlaufen ist, jedoch beharre ich mich nicht darauf und hoffe auf das beste. Danach habe ich noch die Selbsteinschätzung zu meinem Lerntyp ausgefüllt und da es einpaar Fragen hatte die ich sehr gut fand habe ich auch eine kleine Selbstreflektion gemacht und überlegt wie ich mich noch besser oraganisieren könnte, ich werde jetzt wieder eine Planung für meine komplette Woche auf Notion machen wie ich vor einer Weile schon gemacht habe. Zum Schluss habe ich noch Meine Excelliste mit dem Aktuellen Stand meiner Bewerbungen angepasst.
