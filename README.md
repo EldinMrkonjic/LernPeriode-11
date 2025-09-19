@@ -31,5 +31,5 @@ Heute habe ich erneut sehr viel für meine Praktukumsstelle erledigt und musste 
 
 - [ ] Bestehenden Code des IDAF-Projekts überprüfen, Fehler finden und beheben, sodass das Programm ohne Fehlermeldungen läuft.
 - [ ] Code-Dokumentation verfassen, die alle wichtigen Klassen, Methoden und Funktionen beschreibt.
-- [ ] Entscheidung treffen, welche Struktur und welchen Stil die Projektdokumentation haben soll, und dies in einem kurzen Konzept festhalten.
+- [ ] Entscheidungsphase von IPERKA dokumentieren und festhalten vom IDAF-Projekt
 - [ ] Skript für die PowerPoint-Präsentation erstellen, das den Ablauf und die Inhalte der Präsentation klar vorgibt.
