@@ -25,3 +25,11 @@ Heute habe ich primär an meinem Bewerbungsdossier gearbeitet. Das bedeuted das 
 - [x] Bewerbungsschreiben für unternehmen geschrieben ZHAW und Bewerbung verschickt.
 
 Heute habe ich erneut sehr viel für meine Praktukumsstelle erledigt und musste mit bedauern feststellen das mir ein Peinlicher Schreibfehler unterlaufen ist, jedoch beharre ich mich nicht darauf und hoffe auf das beste. Danach habe ich noch die Selbsteinschätzung zu meinem Lerntyp ausgefüllt und da es einpaar Fragen hatte die ich sehr gut fand habe ich auch eine kleine Selbstreflektion gemacht und überlegt wie ich mich noch besser oraganisieren könnte, ich werde jetzt wieder eine Planung für meine komplette Woche auf Notion machen wie ich vor einer Weile schon gemacht habe. Zum Schluss habe ich noch Meine Excelliste mit dem Aktuellen Stand meiner Bewerbungen angepasst.
+
+
+## Planung 19.09.2025
+
+- [ ] Bestehenden Code des IDAF-Projekts überprüfen, Fehler finden und beheben, sodass das Programm ohne Fehlermeldungen läuft.
+- [ ] Code-Dokumentation verfassen, die alle wichtigen Klassen, Methoden und Funktionen beschreibt.
+- [ ] Entscheidung treffen, welche Struktur und welchen Stil die Projektdokumentation haben soll, und dies in einem kurzen Konzept festhalten.
+- [ ] Skript für die PowerPoint-Präsentation erstellen, das den Ablauf und die Inhalte der Präsentation klar vorgibt.
